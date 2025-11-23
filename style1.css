@@ -300,7 +300,7 @@ h2 {
         margin: 0 auto;
     }
 
-    /* LLOCS D’INTERÈS (2 × 2) */
+    
     .lloc {
         display: grid;
         grid-template-columns: 1fr 1fr ;
@@ -324,7 +324,7 @@ h2 {
         height: 150px ;
     }
 
-    /* EXPERIÈNCIES (mòbil = columna) */
+    
     .fila,
     .fila2 {
         display: flex ;
@@ -349,7 +349,7 @@ h2 {
         width: 100%;
     }
 
-    /* SUBSCRIBE */
+   
     .box {
         flex-direction: column;
         padding: 25px;
@@ -382,4 +382,5 @@ h2 {
     .btn-rojo,
     .btn-transp { width: 100%; }
     .imgBack { height: 130px; }
+
 }
